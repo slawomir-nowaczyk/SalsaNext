@@ -9,7 +9,7 @@ In this paper, we introduce SalsaNext for the uncertainty-aware semantic segment
 ![Example Gif](/images/SalsaNext.gif)
 
 ### Video 
-[![Inference of Sequence 13](https://img.youtube.com/vi/MlSaIcD9ItU/0.jpg)](http://www.youtube.com/watch?v=MlSaIcD9ItU)
+[![Inference of Sequence 13](https://img.youtube.com/vi/MlSaIcD9ItU/0.jpg)](https://youtu.be/pf9pSEhE7b0)
 
 
 
